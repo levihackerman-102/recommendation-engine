@@ -1,5 +1,3 @@
-a# movie-rec-engine-backend
-
 Here you can find the Movie Recommendation engine backend Flask API code. 
 
 I created this project to leverage the open-source [MovieLens dataset](https://grouplens.org/datasets/movielens/) and hopefully help people figure out what to watch next. Below is an illustration of what the engine will recommend if you enter the movie "Heat (1995)".
